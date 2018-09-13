@@ -29,7 +29,7 @@ namespace WpfGetTest
         {
             lbItems.Items.Add("Welkom!");
             lbItems.Items.Add("Welkom!");
-            lbItems.Items.Add("Bonjour!");
+            lbItems.Items.Add("Wilkommen!");
         }
     }
 }
